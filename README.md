@@ -17,7 +17,7 @@ LLM-Based Chatbot with RAG for Isuzu Product Information.
 ![Chatbot Interface](screenshots/2.png)
 ![Chatbot Interface](screenshots/3.png)
 ![Chatbot Interface](screenshots/4.png)
-
+![Chatbot Interface](screenshots/5.png)
 ## ✍️ Author
 
 **Al Diras Pradiptha**
